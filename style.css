@@ -1,0 +1,27 @@
+
+/*In order of importance - Least to most*/
+/*Type Selectors*/
+li {
+
+}
+li a {
+
+}
+li + a {
+
+}
+/*Class, attribute and Pseudo-Class Selectors*/
+.hello {
+
+}
+input[type="text"] {
+
+}
+
+a:hover {
+
+}
+/*ID Selectors*/
+#special {
+
+}
